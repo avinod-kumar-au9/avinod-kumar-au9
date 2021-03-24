@@ -18,7 +18,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </p>
 
 
-Checkout my deployed websites in my respective repositories at the right top About tab
 
 - 🌱 I’m currently learning Full Stack web development
 - 👯 I’m looking to collaborate on any projects
